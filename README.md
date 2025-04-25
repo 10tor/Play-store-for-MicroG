@@ -8,4 +8,4 @@ This Module Will Install Play Store that works With MicroG And Enable a fully wo
 # Caution 
 - **Do payments at your own risk (I'm not responsible for any fund loss)**
 # Contact Me
-** For any queries or help related to this Project You Can contact me on the provided Telegram ID.**
+** For any queries or help related to this Project You Can contact me on the provided Telegram ID. **
