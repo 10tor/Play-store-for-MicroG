@@ -1,2 +1,2 @@
 # Play-store-for-MicroG
-# Both Magisk/KernelSU
+ Both Magisk/KernelSU
