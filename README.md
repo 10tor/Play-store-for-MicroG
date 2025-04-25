@@ -1,5 +1,5 @@
 # Play-store-for-MicroG
-[![Telegram](https://t.me/microgply)]
+![[Telegram](https://t.me/microgply)]
 **Both Magisk/KernelSU are Supported(Haven't tried in APatch )**
 # About
 This Module Will Install Play Store that works With MicroG And Enable a fully working Google Play store on a MicroG devices.
