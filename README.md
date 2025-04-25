@@ -1,5 +1,5 @@
 # Play-store-for-MicroG
-**Both Magisk/KernelSU**
+**Both Magisk/KernelSU are Supported(Haven't tried in APatch )**
 # About
 This Module Will Install Play Store that works With MicroG
 # Uses
