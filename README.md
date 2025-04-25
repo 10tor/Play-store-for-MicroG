@@ -1,5 +1,5 @@
 # Play-store-for-MicroG
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)]
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=gitbub)]
 (https://t.me/microgply)  [![Release](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/10tor/Play-store-for-MicroG/releases)  
 **Both Magisk/KernelSU are Supported(Haven't tried in APatch )**
 # About
