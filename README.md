@@ -6,6 +6,9 @@ This Module Will Install Play Store that works With MicroG And Enable a fully wo
 # Uses
 - Work just Like Normal Play store
 - Support Billing services.
+# Installation
+- Use Magisk/KernelSU for installation
+- Install MicroG From Official !GitHub(https://github.com/microg/GmsCore/releases)
 # Caution 
 - **Do payments at your own risk (I'm not responsible for any fund loss)**
 # Contact Me
