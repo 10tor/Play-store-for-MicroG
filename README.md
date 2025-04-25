@@ -3,5 +3,5 @@
 # About
 This Module Will Install Play Store that works With MicroG And Enable a fully working Google Play store on a MicroG devices .
 # Uses
-• Work just Like Normal Play store
-• Support Billing services (Don't recommend Higher Amounts)
+- Work just Like Normal Play store
+- Support Billing services (Don't recommend Higher Amounts)
